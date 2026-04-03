@@ -1,4 +1,7 @@
 # Qa-Project-3-Web-Application-Testing
+<p align="left">
+  <img src="web application.png" alt="web application Welcome Screenshot" width="800">
+</p>
 
 ## 📋 Project Description
 
