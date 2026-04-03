@@ -10,7 +10,7 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
 
 📏 **Cross-Platform and Responsive Validation:** System verification at specific resolutions (800x600 and 1920x1080) to ensure visual and operational consistency.
 
-⚖️ **Requirements vs. Design Analysis:** Identification and reporting of discrepancies between Figma prototypes and business technical documentation.
+⚖️ **Requirements and Design Analysis:** Identification and reporting of discrepancies between Figma prototypes and business technical documentation.
 
 🌐 **Cross-Browser Testing:** Ensuring software compatibility and stability across Google Chrome and Firefox browsers.
 
