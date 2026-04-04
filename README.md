@@ -19,7 +19,40 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
 
 📄 **Technical Documentation Management:** Creation of bug reports and detailed test cases using professional templates.
 
+## 📊 Obtained Results
+
+<details>
+  <summary><b><i>Click here to view Design Checklist details</i></b></summary>
+
+  #### 📝 Design Checklist
+ | Category | Results |
+  | :--- | :---: |
+  | 🚀 **Total Tests Executed** | `40` |
+  | ✅ Passed Cases | `26` |
+  | 🐞 Failed Cases (Bugs Found) | `13` |
+  | 🚨 Critical/High Severity Defects| `7` |
+
+## 📂 Project Documentation
+[Platform Design-Checklist](https://docs.google.com/spreadsheets/d/19k4fxQPiG2Yx6A8vnBvcked7_ut4JyRVegi3saRT2I0/edit?usp=sharing)
+
+<div align="center">
+  <img src="assets/images/figma UI testing.png" alt="Figma UI Validation" width="90%">
+  <p><i>Comparison: 👉 Figma Prototype (Left) vs. Urban Routes Implementation (Right).</i></p>
+</div>
+
+</details>
+
+<details>
+  <summary><b><i>Click here to view Payment Method and Add Credit Card Checklist details</i></b></summary><br>
+  
+#### 💵 Payment Method and Add Credit Card Checklist 💳
+ | Category | Results |
+  | :--- | :---: |
+  | 🚀 **Total Tests Executed** | `40` |
+  | ✅ Passed Cases | `26` |
+  | 🐞 Failed Cases (Bugs Found) | `13` |
+  | 🚨 Critical/High Severity Defects| `7` |
+
+</details>
 
 [HTTP status code validation and JSON object inspection.webm](https://github.com/user-attachments/assets/d6a9cfb4-18cf-4972-9832-4dea473c54b5)
-
-## 📊 Obtained Results
