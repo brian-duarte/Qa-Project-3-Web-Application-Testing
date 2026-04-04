@@ -19,6 +19,11 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
 
 📄 **Technical Documentation Management:** Creation of bug reports and detailed test cases using professional templates.
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/664269c0-d4d9-4ba8-94df-a15d21c344fc" width="90%"></video>
+  <p><b><i>🔍 HTTP status code validation and JSON object inspection video.</i></b></p>
+</div>
+
 ## 📊 Obtained Results
 
 <details>
@@ -69,3 +74,11 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
 [HTTP status code validation and JSON object inspection.webm](https://github.com/user-attachments/assets/d6a9cfb4-18cf-4972-9832-4dea473c54b5)
 
 </details>
+
+
+
+
+
+
+
+
