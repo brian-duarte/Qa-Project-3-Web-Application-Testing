@@ -48,11 +48,24 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
 #### 💵 Payment Method and Add Credit Card Checklist 💳
  | Category | Results |
   | :--- | :---: |
-  | 🚀 **Total Tests Executed** | `40` |
-  | ✅ Passed Cases | `26` |
-  | 🐞 Failed Cases (Bugs Found) | `13` |
-  | 🚨 Critical/High Severity Defects| `7` |
+  | 🚀 **Total Tests Executed** | `27` |
+  | ✅ Passed Cases | `11` |
+  | 🐞 Failed Cases (Bugs Found) | `16` |
+  | 🚨 Critical/High Severity Defects| `16` |
+
+## 📂 Project Documentation
+[Payment Method and Credit Card - Checklist](https://docs.google.com/spreadsheets/d/10LcLl5GzizlSo9Pef4j0qXU1_e-ULg3JG1wy3aUg2bE/edit?usp=sharing)
+
+<div align="center">
+  <img src="assets/images/Method of Payment.png" alt="Credit Card Validation" width="90%">
+  <p><i>👉 Requirements Integrity: Validation of business rules and design applied to the "Card Number" field.</i></p>
+</div>
 
 </details>
 
+<details>
+  <summary><b><i>Click here to view HTTP status code validation and JSON object inspection video</i></b></summary>
+  
 [HTTP status code validation and JSON object inspection.webm](https://github.com/user-attachments/assets/d6a9cfb4-18cf-4972-9832-4dea473c54b5)
+
+</details>
