@@ -63,7 +63,7 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
 
 <div align="center">
   <img src="assets/images/Method of Payment.png" alt="Credit Card Validation" width="90%">
-  <p><i>👉 Requirements Integrity: Validation of business rules and design applied to the "Card Number" field.</i></p>
+  <p><i>👉 Triple Validation: Comparison of acceptance criteria vs. Figma design vs. final platform functionality" field.</i></p>
 </div>
 
 </details>
