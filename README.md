@@ -18,3 +18,5 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
 🌐 **Cross-Browser Testing:** Ensuring software compatibility and stability across Google Chrome and Firefox browsers.
 
 📄 **Technical Documentation Management:** Creation of bug reports and detailed test cases using professional templates.
+
+## 📊 Obtained Results
