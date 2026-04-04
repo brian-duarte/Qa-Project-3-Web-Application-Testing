@@ -68,13 +68,6 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
 
 </details>
 
-<details>
-  <summary><b><i>Click here to view HTTP status code validation and JSON object inspection video</i></b></summary>
-  
-[HTTP status code validation and JSON object inspection.webm](https://github.com/user-attachments/assets/d6a9cfb4-18cf-4972-9832-4dea473c54b5)
-
-</details>
-
 
 
 
