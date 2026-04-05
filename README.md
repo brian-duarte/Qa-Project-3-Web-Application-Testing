@@ -107,7 +107,7 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
 
 <div align="center">
   <img src="assets/images/Reservation Functions (firefox) .png" alt="Reservation Functions Logic" width="90%">
-  <p><i>🌐 Cross-browser Testing: Reservation Function Logic Validation in Firefox (1080p).</i></p>
+  <p><i>🌐 Cross-browser Testing: Reservation Function Logic Validation in Firefox (1920x1080).</i></p>
 </div>
 
 </details>
