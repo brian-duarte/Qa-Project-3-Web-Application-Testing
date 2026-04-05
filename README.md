@@ -141,6 +141,21 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
   <p><i>🌐 Cross-browser Testing: Reservation Function Logic Validation in Firefox (1920x1080p).</i></p>
 </div>
 
+### 🎨 UI & Design Validation (Figma vs. Implementation)
+
+<table>
+  <tr>
+    <td align="center"><b>Figma Design (Requirement)</b></td>
+    <td align="center"><b>Live Web Implementation</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/Figma.png" width="400px"></td>
+    <td><img src="assets/images/firefox.png" width="400px"></td>
+  </tr>
+</table>
+<p align="center"><i>🔍 UI Discrepancy Detected: The system fails to display the car brand and license plate number. Instead, it incorrectly shows the selected category (Resolution 1920x1080).</i></p>
+
+
 </details>
 
 
