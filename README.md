@@ -174,6 +174,11 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
   </li>
   <li><b>Expected Result:</b> System should trigger an error message for invalid format.</li>
   <li><b>Actual Result:</b> System accepts the card and proceeds to the next step.</li>
+  <li><b>Evidence: 
+    <div align="center">
+  <img src="assets/images/Credit card.png" alt="Credit Card Validation" width="400px">
+  <p><i>Platform functionality validation field.</i></p>
+</div></li>
   <li><b>Environment:</b> Firefox 148.0.2 (64-bit).</li>
 </ul>
 </details>
