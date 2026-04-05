@@ -7,6 +7,14 @@
 
 Validate the critical functionality of "car sharing" on the Urban Routes platform, ensuring a consistent user experience through cross-platform testing and technical analysis of requirements.
 
+---
+
+### 📂 Project Resources & Assets
+* **📋 Business Requirements:** [View Functional Requirements (PDF)](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-sprint-3/ES/v6/V6_Requisitos_para_la_funcionalidad_Compartir_un_automvil.pdf)
+* **🎨 UI/UX Design:** [Figma Interactive Prototype](https://www.figma.com/file/I6nSmK36O9DINiDCYZsZeS/Urban-Routes-ES?type=design&node-id=2-17466&mode=design&t=ghRVbcO2oa8Wrw6l-0)
+
+---
+
 ## ✅ Activities Performed
 
 🚀 **Critical Flow Functional Testing:** Execution of end-to-end tests on the "car sharing" functionality of Urban Routes.
@@ -46,7 +54,7 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
 </div>
 
 
-## 📊 Obtained Results
+## 📊 Test Execution Metrics
 
 <details>
   <summary><b><i>Click here to view Design Checklist details</i></b></summary>
