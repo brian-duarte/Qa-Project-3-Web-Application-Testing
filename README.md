@@ -160,20 +160,23 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
 
 <details>
 <summary><b>🐛 Bug Report #S1PF-18: Payment Method Validation Failure</b></summary>
-
-- **Severity:** Critical 🔴
-- **Priority:** High ⬆️
-- **Steps to Reproduce:**
-  1. Go to "Add Card" section.
-  2. Enter invalid card number (e.g., "9999999999999999").
-  3. Enter 2-digit CVV / CVC (e.g., "12").
-  4. Click "Save".
-- **Expected Result:** System should trigger an error message for invalid format.
-- **Actual Result:** System accepts the card and proceeds to the next step.
-- **Environment:** Firefox 148.0.2 (64-bit).
-
+<br>
+<ul>
+  <li><b>Severity:</b> Critical 🔴</li>
+  <li><b>Priority:</b> High ⬆️</li>
+  <li><b>Steps to Reproduce:</b>
+    <ol>
+      <li>Go to "Add Card" section.</li>
+      <li>Enter invalid card number (e.g., "9999999999999999").</li>
+      <li>Enter 2-digit CVV / CVC (e.g., "12").</li>
+      <li>Click "Save".</li>
+    </ol>
+  </li>
+  <li><b>Expected Result:</b> System should trigger an error message for invalid format.</li>
+  <li><b>Actual Result:</b> System accepts the card and proceeds to the next step.</li>
+  <li><b>Environment:</b> Firefox 148.0.2 (64-bit).</li>
+</ul>
 </details>
-
 
 
 ## Conclusion
