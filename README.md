@@ -113,4 +113,75 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
 </details>
 
 
+## Conclusion
+
+<blockquote>
+  As a user, my overall impression of Urban Routes is that, although it presents several issues and can be somewhat inconvenient to use at times, it has also been a satisfying experience due to the challenges it presents. Working with the platform allowed me to develop skills and face interesting situations.
+</blockquote>
+
+<br>
+
+### 🧪 Testing Performed
+
+<p align="justify">
+Both interface and specific functionality tests were carried out, using the document <i>“Requirements for the Car Sharing Functionality”</i> and <b>Figma</b> designs as references.
+</p>
+
+<table width="100%">
+  <tr>
+    <td><b>⚙️ Functionality</b></td>
+    <td><b>🖥️ Interface</b></td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Interaction with the “Reservation” button.</li>
+        <li>Adding payment methods (bank card).</li>
+        <li>Measuring waiting time.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Cross-browser & resolution validation.</li>
+        <li>Platform-wide spell check.</li>
+        <li>Pop-up windows interaction.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><i>The tests were conducted efficiently, covering all planned cases.</i></p>
+
+---
+
+### ⚠️ Issues Identified
+
+<div style="background-color: #fff5f5; border-left: 5px solid #ff4444; padding: 15px; color: #333;">
+  <ul>
+    <li>Failures when adding a bank card.</li>
+    <li>Issues when registering a driver’s license.</li>
+    <li>Errors when canceling a trip.</li>
+    <li>Inconsistencies in the timer.</li>
+  </ul>
+  <hr>
+  </p>
+</div>
+
+<div style="background-color: #fff5f5; border: 1px solid #ff4444; border-left: 5px solid #ff4444; padding: 15px; border-radius: 6px; margin: 20px 0;">
+  <h3 style="color: #d73a49; margin-top: 0;">🛑 Critical UI Bug</h3>
+    A <b></b> When reserving a vehicle, it does not appear on the map, even though it should.
+  </p>
+
+  
+<div style="background-color: #fff5f5; border: 1px solid #ff4444; border-left: 5px solid #ff4444; padding: 15px; border-radius: 6px; margin: 20px 0;">
+  <h3 style="color: #d73a49; margin-top: 0;">🛑 Critical Bug Report – Payment Method (Bank Card)</h3>
+  
+  <p align="justify">
+    A <b>critical defect</b> was identified in the bank card functionality, where the system allows input formats that do not comply with the defined requirements, including invalid and non-existent data. This represents a <b>high-severity issue</b> due to its potential impact on data integrity and transaction reliability.
+  </p>
+
+  <p align="justify" style="border-top: 1px dashed #ffcccc; pt: 10px; margin-top: 10px;">
+    Through the application of <b>Equivalence Class Partitioning</b> and <b>Boundary Value Analysis</b>, multiple defects were detected across the input fields. These issues indicate insufficient validation mechanisms and highlight the need for stricter input controls aligned with business rules.
+  </p>
+</div>
 
