@@ -89,12 +89,22 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
 </div>
 </details>
 
+<details>
+  <summary><b><i>Click here to view Testing and Test Cases for Reservation Functions Logic details</i></b></summary><br>
+  
+#### ⚙️ Testing and Test Cases for Reservation Functions Logic 🔄
+| Category | Results |
+  | :--- | :---: |
+  | 🚀 **Total Tests Executed** | `11` |
+  | ✅ Passed Cases | `5` |
+  | 🐞 Failed Cases (Bugs Found) | `6` |
+  | 🚨 Critical/High Severity Defects| `3` |
 
+## 📂 Project Documentation
 
+[Testing and Test Cases for Reservation Functions Logic](https://docs.google.com/spreadsheets/d/1MLsKwxC9CrJcsc9FhgRhtAMN8rgbROLUCNCrQLvdeVU/edit?usp=sharing)
 
-
-
-
+</details>
 
 
 
