@@ -19,10 +19,32 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
 
 📄 **Technical Documentation Management:** Creation of bug reports and detailed test cases using professional templates.
 
+## 📑 Test Planning & Strategy
+
+<table width="100%">
+  <tr>
+    <td><b>🎯 Scope</b></td>
+    <td>User Interface (UI), reservation flow, and payment module validation.</td>
+  </tr>
+  <tr>
+    <td><b>🚫 Out of Scope</b></td>
+    <td>Backend database validation, API Testing, Automation testing.</td>
+  </tr>
+  <tr>
+    <td><b>✅ Entry Criteria</b></td>
+    <td>Stable environment, finalized Figma designs, and SRS (Software Requirements Specification) documentation.</td>
+  </tr>
+  <tr>
+    <td><b>🏁 Exit Criteria</b></td>
+    <td>Test cases and checklists executed and validated.</td>
+  </tr>
+</table>
+
 <div align="center">
   <video src="https://github.com/user-attachments/assets/664269c0-d4d9-4ba8-94df-a15d21c344fc" width="90%"></video>
   <p><b><i>🔍 HTTP status code validation and JSON object inspection video.</i></b></p>
 </div>
+
 
 ## 📊 Obtained Results
 
