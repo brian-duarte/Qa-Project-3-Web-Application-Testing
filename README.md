@@ -10,7 +10,8 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
 ---
 
 ### 📂 Project Resources & Assets
-* **📋 Business Requirements:** [View Functional Requirements (PDF)](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-sprint-3/ES/v6/V6_Requisitos_para_la_funcionalidad_Compartir_un_automvil.pdf)
+* **📋 Requirements:** [View Functional Requirements (PDF)](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-sprint-3/ES/v6/V6_Requisitos_para_la_funcionalidad_Compartir_un_automvil.pdf)
+  
 * **🎨 UI/UX Design:** [Figma Interactive Prototype](https://www.figma.com/file/I6nSmK36O9DINiDCYZsZeS/Urban-Routes-ES?type=design&node-id=2-17466&mode=design&t=ghRVbcO2oa8Wrw6l-0)
 
 ---
