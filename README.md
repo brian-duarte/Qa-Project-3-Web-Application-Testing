@@ -69,6 +69,29 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
 </details>
 
 
+<details>
+  <summary><b><i>Click here to view Test Cases and Testing: "Reservation" Button Logic details</i></b></summary><br>
+  
+#### 🧠 Test Cases and Testing: "Reservation" Button Logic ⚙️
+| Category | Results |
+  | :--- | :---: |
+  | 🚀 **Total Tests Executed** | `7` |
+  | ✅ Passed Cases | `3` |
+  | 🐞 Failed Cases (Bugs Found) | `4` |
+  | 🚨 Critical/High Severity Defects| `3` |
+
+## 📂 Project Documentation
+[Test Cases and Testing: "Reservation" Button Logic](https://docs.google.com/spreadsheets/d/159Nwa0gKaM9fOVdTFR8A96DRYKhSB0iiKJWn47BoGnE/edit?usp=sharing)
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/cbd8bfed-9bf3-4c82-b1f4-7bb414528b9c" width="90%"></video>
+  <p><b><i>🚗 Vehicle Reservation Flow video.</i></b></p>
+</div>
+</details>
+
+
+
+
 
 
 
