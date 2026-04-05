@@ -169,7 +169,7 @@ Validate the critical functionality of "car sharing" on the Urban Routes platfor
       <li>Go to "Add Card" section.</li>
       <li>Enter invalid card number (e.g., "9999999999999999").</li>
       <li>Enter 2-digit CVV / CVC (e.g., "12").</li>
-      <li>Click "Save".</li>
+      <li>Click "Agregar".</li>
     </ol>
   </li>
   <li><b>Expected Result:</b> System should trigger an error message for invalid format.</li>
